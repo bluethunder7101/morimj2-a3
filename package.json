@@ -1,0 +1,17 @@
+{
+  "name": "morimj2-a3-api",
+  "version": "1.0.0",
+  "description": "helps with physics calculations",
+  "main": "app.js",
+  "scripts": {
+    "build": "app.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "physics",
+    "calculator"
+  ],
+  "author": "James Morimoto",
+  "license": "ISC"
+}
