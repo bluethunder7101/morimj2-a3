@@ -6,7 +6,7 @@ HOW TO RUN THE BACK END:
 2. in addition make sure you have the environment variables set up.
 3. once done with the above instructions open the cmd and navigate to the directory that contains app.js and then run
 `node app.js`. 
-
+4. Since I was unable to get the front end to work, you can test the backend by going to links and changing the last three values(or two).
 For ease of access to the api: 
 http://127.0.0.1:3000/displacement/1/1/1
 http://127.0.0.1:3000/velocity/1/1/1
